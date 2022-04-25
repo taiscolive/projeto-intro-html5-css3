@@ -1,0 +1,42 @@
+body {
+    background-color: floralwhite;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#title,.subtitle,.post_title {
+color: darksalmon;
+ }
+
+.post_title {
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 35px;
+    font-family: fantasy;
+}
+
+#title {
+    font-family: cursive;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: Tahoma;
+}
+
+.contact_list {
+    list-style-type: none;
+    padding:0;
+}
+
+.post {
+    background-color: white;
+    padding: 15px;
+    border: 1px dotted sienna;
+    margin: 50px;
+    border-radius: 5px;
+}
+
